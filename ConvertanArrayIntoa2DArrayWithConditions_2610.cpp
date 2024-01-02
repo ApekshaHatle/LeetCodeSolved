@@ -1,4 +1,4 @@
-//2nd Jan Daily Challenge Que
+//Jan 2 Daily Challenge Que
 
 class Solution {
 public:
