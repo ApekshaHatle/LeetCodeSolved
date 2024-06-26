@@ -1,3 +1,5 @@
+//Jan 3 Daily Challenge Question
+
 class Solution {
 public:
     int numberOfBeams(vector<string>& bank) {

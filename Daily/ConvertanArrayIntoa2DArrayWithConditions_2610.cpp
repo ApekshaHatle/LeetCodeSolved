@@ -1,4 +1,4 @@
-//Jan 2 Daily Challenge Que
+//Jan 2 Daily Challenge Question
 
 class Solution {
 public:
