@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 //Jan 3 Daily Challenge Question
 
+=======
+//Jan 3 Daily Question
+>>>>>>> 11895faf3af8f69f5abb4316b9f98c010961ea62
 class Solution {
 public:
     int numberOfBeams(vector<string>& bank) {
